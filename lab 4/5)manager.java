@@ -41,7 +41,7 @@ public String department="d";
  
 public static void main(String args[])
 {
-Scanner sc= new Scanner(System.in);obj and method calling
+Scanner sc= new Scanner(System.in);//obj and method calling
 System.out.println("enter the name");
 String n=sc.next();
 System.out.println("enter the employee id");
